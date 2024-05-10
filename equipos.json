@@ -1,27 +1,44 @@
 [
-    {      
-      "nombre": "Argentina",
+    {
+      "_id": "60aaf1f8820631000152803b",      
       "pais": "Argentina",
       "entrenador": "Lionel Scaloni"
     },
-    {      
-      "nombre": "Portugal",
+    {
+      "_id": "60aaf1f8820631000152803d",      
       "pais": "Portugal",
       "entrenador": "Fernando Santos"
     },
-    {      
-      "nombre": "Brasil",
+    {
+      "_id": "60aaf1f8820631000152803f",      
       "pais": "Brasil",
       "entrenador": "Tite"
     },
-    {      
-      "nombre": "Croacia",
+    {
+      "_id": "60aaf1f88206310001528041",      
       "pais": "Croacia",
       "entrenador": "Zlatko Dalić"
     },
-    {      
-      "nombre": "Países Bajos",
+    {
+      "_id": "60aaf1f88206310001528043",      
       "pais": "Países Bajos",
       "entrenador": "Frank de Boer"
+    },
+    {
+      "_id": "60aaf1f88206310001528046",      
+      "pais": "Polonia",
+      "entrenador": "Paulo Sousa"
+    },
+    {
+      "_id": "60aaf1f88206310001528047",      
+      "pais": "Bélgica",
+      "entrenador": "Roberto Martínez"
+    },
+    {
+      "_id": "60aaf1f88206310001528048",      
+      "pais": "España",
+      "entrenador": "Luis Enrique"
     }
-  ]
+]
+  
+  
