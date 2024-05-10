@@ -1,0 +1,60 @@
+[
+    {
+      "_id": "60aaf1f8820631000152803a",
+      "nombre": "Lionel Messi",
+      "edad": 34,
+      "posicion": "Delantero",
+      "equipo": "Argentina"
+    },
+    {
+      "_id": "60aaf1f8820631000152803c",
+      "nombre": "Cristiano Ronaldo",
+      "edad": 36,
+      "posicion": "Delantero",
+      "equipo": "Portugal"
+    },
+    {
+      "_id": "60aaf1f8820631000152803e",
+      "nombre": "Neymar Jr.",
+      "edad": 29,
+      "posicion": "Delantero",
+      "equipo": "Brasil"
+    },
+    {
+      "_id": "60aaf1f88206310001528040",
+      "nombre": "Luka Modric",
+      "edad": 35,
+      "posicion": "Centrocampista",
+      "equipo": "Croacia"
+    },
+    {
+      "_id": "60aaf1f88206310001528042",
+      "nombre": "Virgil van Dijk",
+      "edad": 29,
+      "posicion": "Defensa",
+      "equipo": "Países Bajos"
+    },
+    {
+      "_id": "60aaf1f88206310001528043",
+      "nombre": "Robert Lewandowski",
+      "edad": 32,
+      "posicion": "Delantero",
+      "equipo": "Polonia"
+    },
+    {
+      "_id": "60aaf1f88206310001528044",
+      "nombre": "Kevin De Bruyne",
+      "edad": 29,
+      "posicion": "Centrocampista",
+      "equipo": "Bélgica"
+    },
+    {
+      "_id": "60aaf1f88206310001528045",
+      "nombre": "Sergio Ramos",
+      "edad": 35,
+      "posicion": "Defensa",
+      "equipo": "España"
+    }
+]
+  
+  

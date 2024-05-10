@@ -1,0 +1,83 @@
+[
+    {
+      "_id": "60aaf1f88206310001528061",
+      "encuentro": {
+        "equipo_local": "Argentina",
+        "equipo_visitante": "Portugal"
+      },
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "ganador": "Empate"
+    },
+    {
+      "_id": "60aaf1f88206310001528062",
+      "encuentro": {
+        "equipo_local": "Brasil",
+        "equipo_visitante": "Croacia"
+      },
+      "goles_local": 3,
+      "goles_visitante": 1,
+      "ganador": "Brasil"
+    },
+    {
+      "_id": "60aaf1f88206310001528063",
+      "encuentro": {
+        "equipo_local": "Países Bajos",
+        "equipo_visitante": "Croacia"
+      },
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "ganador": "Croacia"
+    },
+    {
+      "_id": "60aaf1f88206310001528064",
+      "encuentro": {
+        "equipo_local": "Argentina",
+        "equipo_visitante": "Países Bajos"
+      },
+      "goles_local": 2,
+      "goles_visitante": 3,
+      "ganador": "Países Bajos"
+    },
+    {
+      "_id": "60aaf1f88206310001528065",
+      "encuentro": {
+        "equipo_local": "Portugal",
+        "equipo_visitante": "Brasil"
+      },
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "ganador": "Empate"
+    },
+    {
+      "_id": "60aaf1f88206310001528066",
+      "encuentro": {
+        "equipo_local": "Polonia",
+        "equipo_visitante": "Bélgica"
+      },
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "ganador": "Empate"
+    },
+    {
+      "_id": "60aaf1f88206310001528067",
+      "encuentro": {
+        "equipo_local": "España",
+        "equipo_visitante": "Portugal"
+      },
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "ganador": "Empate"
+    },
+    {
+      "_id": "60aaf1f88206310001528068",
+      "encuentro": {
+        "equipo_local": "Bélgica",
+        "equipo_visitante": "Argentina"
+      },
+      "goles_local": 3,
+      "goles_visitante": 2,
+      "ganador": "Bélgica"
+    }
+]
+  

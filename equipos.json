@@ -1,0 +1,27 @@
+[
+    {      
+      "nombre": "Argentina",
+      "pais": "Argentina",
+      "entrenador": "Lionel Scaloni"
+    },
+    {      
+      "nombre": "Portugal",
+      "pais": "Portugal",
+      "entrenador": "Fernando Santos"
+    },
+    {      
+      "nombre": "Brasil",
+      "pais": "Brasil",
+      "entrenador": "Tite"
+    },
+    {      
+      "nombre": "Croacia",
+      "pais": "Croacia",
+      "entrenador": "Zlatko Dalić"
+    },
+    {      
+      "nombre": "Países Bajos",
+      "pais": "Países Bajos",
+      "entrenador": "Frank de Boer"
+    }
+  ]

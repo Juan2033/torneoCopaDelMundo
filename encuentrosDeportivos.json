@@ -1,0 +1,67 @@
+[
+    {
+      "_id": "60aaf1f88206310001528059",
+      "equipo_local": "Argentina",
+      "equipo_visitante": "Portugal",
+      "arbitro_principal": "Howard Webb",
+      "fecha": "2022-06-14 21:00:00",
+      "estadio": "Estadio Olímpico Luzhnikí"
+    },
+    {
+      "_id": "60aaf1f8820631000152805a",
+      "equipo_local": "Brasil",
+      "equipo_visitante": "Croacia",
+      "arbitro_principal": "Pierluigi Collina",
+      "fecha": "2022-06-15 18:00:00",
+      "estadio": "Estadio Beira-Rio"
+    },
+    {
+      "_id": "60aaf1f8820631000152805b",
+      "equipo_local": "Países Bajos",
+      "equipo_visitante": "Croacia",
+      "arbitro_principal": "Nestor Pitana",
+      "fecha": "2022-06-16 15:00:00",
+      "estadio": "Estadio de la Cerámica"
+    },
+    {
+      "_id": "60aaf1f8820631000152805c",
+      "equipo_local": "Argentina",
+      "equipo_visitante": "Países Bajos",
+      "arbitro_principal": "Felix Brych",
+      "fecha": "2022-06-17 21:00:00",
+      "estadio": "Estadio Monumental de Lima"
+    },
+    {
+      "_id": "60aaf1f8820631000152805d",
+      "equipo_local": "Portugal",
+      "equipo_visitante": "Brasil",
+      "arbitro_principal": "Mark Geiger",
+      "fecha": "2022-06-18 18:00:00",
+      "estadio": "Estadio Mineirão"
+    },
+    {
+      "_id": "60aaf1f8820631000152805e",
+      "equipo_local": "Polonia",
+      "equipo_visitante": "Bélgica",
+      "arbitro_principal": "Néstor Fabián",
+      "fecha": "2022-06-19 15:00:00",
+      "estadio": "Estadio Nacional de Varsovia"
+    },
+    {
+      "_id": "60aaf1f8820631000152805f",
+      "equipo_local": "España",
+      "equipo_visitante": "Portugal",
+      "arbitro_principal": "Ravshan Irmatov",
+      "fecha": "2022-06-20 21:00:00",
+      "estadio": "Estadio Santiago Bernabéu"
+    },
+    {
+      "_id": "60aaf1f88206310001528060",
+      "equipo_local": "Bélgica",
+      "equipo_visitante": "Argentina",
+      "arbitro_principal": "Björn Kuipers",
+      "fecha": "2022-06-21 18:00:00",
+      "estadio": "Estadio Rey Balduino"
+    }
+]
+  

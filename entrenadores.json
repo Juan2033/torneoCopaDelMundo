@@ -1,0 +1,52 @@
+[
+    {
+      "_id": "60aaf1f88206310001528049",
+      "nombre": "Lionel Scaloni",
+      "pais": "Argentina",
+      "experiencia": 3
+    },
+    {
+      "_id": "60aaf1f8820631000152804a",
+      "nombre": "Fernando Santos",
+      "pais": "Portugal",
+      "experiencia": 12
+    },
+    {
+      "_id": "60aaf1f8820631000152804b",
+      "nombre": "Tite",
+      "pais": "Brasil",
+      "experiencia": 8
+    },
+    {
+      "_id": "60aaf1f8820631000152804c",
+      "nombre": "Zlatko Dalić",
+      "pais": "Croacia",
+      "experiencia": 5
+    },
+    {
+      "_id": "60aaf1f8820631000152804d",
+      "nombre": "Frank de Boer",
+      "pais": "Países Bajos",
+      "experiencia": 7
+    },
+    {
+      "_id": "60aaf1f8820631000152804e",
+      "nombre": "Paulo Sousa",
+      "pais": "Polonia",
+      "experiencia": 4
+    },
+    {
+      "_id": "60aaf1f8820631000152804f",
+      "nombre": "Roberto Martínez",
+      "pais": "Bélgica",
+      "experiencia": 10
+    },
+    {
+      "_id": "60aaf1f88206310001528050",
+      "nombre": "Luis Enrique",
+      "pais": "España",
+      "experiencia": 6
+    }
+  ]
+  
+  
